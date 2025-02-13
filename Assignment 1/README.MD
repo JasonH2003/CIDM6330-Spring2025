@@ -7,6 +7,8 @@
 
 # Requirements Statements
 ### User Stories 
+  #####User Story 1:
+        As a retail investor I want easy to understand indicators of whether or not I should buy a stock.
 ### Use Cases
 ### Features
 ### Gherkin Validation
