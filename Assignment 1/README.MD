@@ -38,6 +38,7 @@
     As a user I would like to be able to add particular companies i'm interested in to a watch list to revisit later
 
 ### Use Cases <a name="use-cases"></a>
+**User Use Case**
 ![Commercial Investor Use Case](Images/Commercial_Investor_Usecase.jpg)
 ### Features <a name="features"></a>
 * Register for an Account
