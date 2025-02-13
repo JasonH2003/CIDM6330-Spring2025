@@ -44,27 +44,16 @@
 * Register for an Account
 * Login to Account
 * Search buisiness using stock ticker
-* Scrape website for finacial data on business in question
-* Organize scraped data in classes 
-* Recently organized class data will be displayed on interface in a simplfied manner
-* Application will run finacial data through preprogrammed algorithms and display the results on the interface
-* Based on results of calculations, application will provide a recommendation for investing strategy and display it on interface
-* Users with accounts have the ability to add searched business into a watch list allowing them to come back and view it later 
+* Scrape website for specific finacial data on business in question
+* Organize scraped data into attributes of a class 
+* Display attributes of new class on screen
+* Application will run calcualtions using attribute of the new class and display the results on screen
+* Based on results of calculations, application will display a recommendation for investing strategy on screen
+* Users with accounts can add searched business into a watch list 
+* User can open watch list to view saved businesses
 
 ### Gherkin Validation <a name="gherkin-validation"></a>
-**Feature**: Register
 
-  **Scenario Outline**:
-
-    **Given**: w;lehr
-
-
-    **When**: ao;hed
-
-
-    **Then**:aohd
-
-  **Outcome**:
 
 
 # Specifications <a name="specifications"></a>
