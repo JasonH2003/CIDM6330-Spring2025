@@ -38,7 +38,7 @@
     As a user I would like to be able to add particular companies i'm interested in to a watch list to revisit later
 
 ### Use Cases <a name="use-cases"></a>
-![Commercial Investor Use Case](Images/Commercial_Investor_Usecase.png)
+![Commercial Investor Use Case](Images/Commercial_Investor_Usecase.jpg)
 ### Features <a name="features"></a>
 ### Gherkin Validation <a name="gherkin-validation"></a>
 
