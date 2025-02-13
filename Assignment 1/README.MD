@@ -52,10 +52,15 @@
 
 ### Gherkin Validation <a name="gherkin-validation"></a>
 **Feature**: Register
+
   **Scenario Outline**:
+
     **Given**:
+
     **When**:
+
     **Then**:
+
   **Outcome**:
 
 
