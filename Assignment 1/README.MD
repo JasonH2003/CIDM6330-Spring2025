@@ -2,6 +2,8 @@
 ## Front Page
 
 ## Introduction
+
+
   This README will begin to develop this projects scope by detailing the programs intended features as they relate to their corresponding user stories. This page will also illustrate how the application is intended to interact with both users and the websites being scraped to act as its source of data. 
 ## Table of Contents
 ### [Requirements Statements](#requirements-statements)
@@ -19,7 +21,10 @@
 # Requirements Statements <a name="requirements-statements"></a>
 ### User Stories <a name="user-stories"></a>
 #### User Story 1:
-        As a retail investor I want easy to understand indicators of whether or not I should buy a stock.
+  As a retail investor I want easy to understand indicators of whether or not I should buy a stock.
+#### User Story 2:
+  As 
+
 ### Use Cases <a name="use-cases"></a>
 ### Features <a name="features"></a>
 ### Gherkin Validation <a name="gherkin-validation"></a>
