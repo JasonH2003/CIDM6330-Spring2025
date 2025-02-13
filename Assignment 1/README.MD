@@ -53,7 +53,7 @@
 * User can open watch list to view saved businesses
 
 ### Gherkin Validation <a name="gherkin-validation"></a>
-
+![Gherkin Validation](Images/Gherkin_Validation.png)
 
 
 # Specifications <a name="specifications"></a>
