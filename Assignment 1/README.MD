@@ -55,11 +55,9 @@
 
   **Scenario Outline**:
 
-    **Given**:
-
-    **When**:
-
-    **Then**:
+    **Given**: w;lehr
+    **When**: ao;hed
+    **Then**:aohd
 
   **Outcome**:
 
