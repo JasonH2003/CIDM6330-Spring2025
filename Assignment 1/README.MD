@@ -31,7 +31,7 @@
 #### User Story 3:
     As a developer I want to be able to scrape company financial data from a website 
 #### User Story 4:
-    As a developer I want to be able to assign and organize scraped data into temporary classes 
+    As a developer I want to be able to assign and organize scraped data into classes 
 #### User Story 5:
     As a user I want a simple interface
 #### User Story 6:
@@ -40,6 +40,15 @@
 ### Use Cases <a name="use-cases"></a>
 ![Commercial Investor Use Case](Images/Commercial_Investor_Usecase.jpg)
 ### Features <a name="features"></a>
+* Allow users to create an account on the application 
+* Search buisiness using stock ticker
+* Scrape website for finacial data on business in question
+* Organize scraped data in classes 
+* Recently organized class data will be displayed on interface in a simplfied manner
+* Application will run finacial data through preprogrammed algorithms and display the results on the interface
+* Based on results of calculations, application will provide a recommendation for investing strategy and display it on interface
+* Users with accounts have the ability to add searched business into a watch list allowing them to come back and view it later 
+
 ### Gherkin Validation <a name="gherkin-validation"></a>
 
 # Specifications <a name="specifications"></a>
