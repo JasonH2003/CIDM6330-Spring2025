@@ -40,7 +40,8 @@
 ### Use Cases <a name="use-cases"></a>
 ![Commercial Investor Use Case](Images/Commercial_Investor_Usecase.jpg)
 ### Features <a name="features"></a>
-* Allow users to create an account on the application 
+* Register for an Account
+* Login to Account
 * Search buisiness using stock ticker
 * Scrape website for finacial data on business in question
 * Organize scraped data in classes 
@@ -50,6 +51,13 @@
 * Users with accounts have the ability to add searched business into a watch list allowing them to come back and view it later 
 
 ### Gherkin Validation <a name="gherkin-validation"></a>
+**Feature**: Register
+  **Scenario Outline**:
+    **Given**:
+    **When**:
+    **Then**:
+  **Outcome**:
+
 
 # Specifications <a name="specifications"></a>
 ### Concept <a name="concept"></a>
