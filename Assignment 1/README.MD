@@ -5,15 +5,15 @@
   This README will begin to develop this projects scope by detailing the programs intended features as they relate to their corresponding user stories. This page will also illustrate how the application is intended to interact with both users and the websites being scraped to act as its source of data. 
 ## Table of Contents
 ### [Requirements Statements](#requirements-statements)
-#### [User Stories](#user-stories)
-#### [Use Cases](#use-cases)
-#### [Features](#features)
-#### [Gherkin Validation](#gherkin-validation)
+* #### [User Stories](#user-stories)
+* #### [Use Cases](#use-cases)
+* #### [Features](#features)
+* #### [Gherkin Validation](#gherkin-validation)
 ### [Specifications](#specifications)
-#### [Concept](#concept)
-#### [UX Notes](#ux-notes)
-#### [Interfaces](#interfaces)
-#### [Behaviors](#behaviors)
+* #### [Concept](#concept)
+* #### [UX Notes](#ux-notes)
+* #### [Interfaces](#interfaces)
+* #### [Behaviors](#behaviors)
 ### [Features & Packages](#features&packages)
 
 # Requirements Statements <a name="requirements-statements"></a>
