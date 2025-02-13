@@ -25,9 +25,17 @@
 # Requirements Statements <a name="requirements-statements"></a>
 ### User Stories <a name="user-stories"></a>
 #### User Story 1:
-    As a retail investor I want easy to understand indicators of whether or not I should buy a stock.
+    As a commercial investor and user of the application I want to be able to search up a business by its stock ticker and recieve results
 #### User Story 2:
-    As a
+    As a commercial investor I want easy to understand indicators of whether or not I should buy a stock.
+#### User Story 3:
+    As a developer I want to be able to scrape company financial data from a website 
+#### User Story 4:
+    As a developer I want to be able to assign and organize scraped data into temporary classes 
+#### User Story 5:
+    As a user I want a simple interface
+#### User Story 6:
+    As a user I would like to be able to add particular companies i'm interested in to a watch list to revisit later
 
 ### Use Cases <a name="use-cases"></a>
 ### Features <a name="features"></a>
